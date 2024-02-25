@@ -43,13 +43,13 @@ body {
 }
 
 #download-btn {
-  background-color: #008d50;
+  background-color: #00a55d;
   color: white;
 }
 
 #clear-btn {
-  background-color: #d6d6d6;
-  color: black;
+  background-color: #ec5b5b;
+  color: white;
 }
 
 canvas {
