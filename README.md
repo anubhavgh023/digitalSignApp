@@ -5,4 +5,4 @@
 - Just sign and download.
 - Live here: [sign-digital](https://sign-digital.vercel.app/)
  
-![SignApp Preview](./assets/preview.png)
+![SignApp Preview](./assets/preview.gif)
